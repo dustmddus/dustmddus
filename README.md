@@ -1,6 +1,5 @@
 # **_Seung-Yeon Shin_**
 
-
 ### Languages
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-004088.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,6 +17,9 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdustmddus&count_bg=%23016CF9&title_bg=%23848484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![dustmddus's github stats](https://github-readme-stats.vercel.app/api?username=dustmddus&theme=transparent&show_icons=true)
 [![dustmddus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dustmddus&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/dustmddus)
